@@ -1,0 +1,12 @@
+1. Anchor Tag: For links
+2. pre Tag: maintains format
+3. hr: horizontal line
+4. br: break
+5. css: display
+
+position: fixed, absolute, relative
+
+flex box
+
+viewport height
+inline-css

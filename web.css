@@ -1,0 +1,63 @@
+.para {
+  font-size: 15px;
+  color: blue;
+  font-weight: 500;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.green-para {
+  color: green;
+}
+
+.links {
+  background-color: red;
+  padding: 20px;
+  margin-top: 40px;
+  position: relative;
+}
+
+.links-child {
+  /* background-color: blue; */
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.anchor {
+  margin-left: 15px;
+  text-decoration: none;
+  color: yellow;
+  font-size: 15px;
+}
+
+.bold-font {
+  font-weight: 600;
+  color: white;
+}
+
+.logo {
+  height: 40px;
+  width: 40px;
+}
+
+.topbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  /* bottom: 0; */
+  height: 40px;
+  background-color: blue;
+  margin-left: 8px;
+  margin-right: 8px;
+  /* width: 100%; */
+}
+
+.position-abs {
+  position: absolute;
+  top: 0px;
+  left: 500px;
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+}
