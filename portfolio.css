@@ -112,3 +112,15 @@ body {
 .tab:hover > .hover-icon {
   color: aqua;
 }
+
+#hello-message-container {
+  /* height: 50px;
+  width: 250px; */
+  /* border: 1px solid red; */
+  /* background-color: white; */
+  margin: 20px;
+}
+
+.green-text {
+  color: green;
+}
